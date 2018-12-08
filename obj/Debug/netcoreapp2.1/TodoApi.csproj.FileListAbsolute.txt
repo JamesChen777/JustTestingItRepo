@@ -40,3 +40,17 @@ D:\Sanofi\Work\DuduRepo\Test\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInf
 D:\Sanofi\Work\DuduRepo\Test\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
 D:\Sanofi\Work\DuduRepo\Test\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
 D:\Sanofi\Work\DuduRepo\Test\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\bin\Debug\netcoreapp2.1\TodoApi.dll
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\bin\Debug\netcoreapp2.1\TodoApi.pdb
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\obj\Debug\netcoreapp2.1\TodoApi.dll
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\obj\Debug\netcoreapp2.1\TodoApi.pdb
+D:\Sanofi\Work2\DuduRepo\sanofi-dudu-webapi\Test2\JustTestingItRepo\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache

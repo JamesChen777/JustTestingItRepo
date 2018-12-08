@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sanofi\\Work\\DuduRepo\\Test\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "D:\\Sanofi\\Work2\\DuduRepo\\sanofi-dudu-webapi\\Test2\\JustTestingItRepo\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "D:\\Sanofi\\Work\\DuduRepo\\Test\\TodoApi\\TodoApi.csproj",
+      "projectPath": "D:\\Sanofi\\Work2\\DuduRepo\\sanofi-dudu-webapi\\Test2\\JustTestingItRepo\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\James Harry Chen\\.nuget\\packages\\",
-      "outputPath": "D:\\Sanofi\\Work\\DuduRepo\\Test\\TodoApi\\obj\\",
+      "outputPath": "D:\\Sanofi\\Work2\\DuduRepo\\sanofi-dudu-webapi\\Test2\\JustTestingItRepo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
