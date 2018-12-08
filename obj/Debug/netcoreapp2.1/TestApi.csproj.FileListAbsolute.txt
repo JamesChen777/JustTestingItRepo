@@ -1,0 +1,11 @@
+D:\Sanofi\Work\DuduRepo\TodoApi\bin\Debug\netcoreapp2.1\TestApi.deps.json
+D:\Sanofi\Work\DuduRepo\TodoApi\bin\Debug\netcoreapp2.1\TestApi.runtimeconfig.json
+D:\Sanofi\Work\DuduRepo\TodoApi\bin\Debug\netcoreapp2.1\TestApi.runtimeconfig.dev.json
+D:\Sanofi\Work\DuduRepo\TodoApi\bin\Debug\netcoreapp2.1\TestApi.dll
+D:\Sanofi\Work\DuduRepo\TodoApi\bin\Debug\netcoreapp2.1\TestApi.pdb
+D:\Sanofi\Work\DuduRepo\TodoApi\obj\Debug\netcoreapp2.1\TestApi.csprojAssemblyReference.cache
+D:\Sanofi\Work\DuduRepo\TodoApi\obj\Debug\netcoreapp2.1\TestApi.csproj.CoreCompileInputs.cache
+D:\Sanofi\Work\DuduRepo\TodoApi\obj\Debug\netcoreapp2.1\TestApi.AssemblyInfoInputs.cache
+D:\Sanofi\Work\DuduRepo\TodoApi\obj\Debug\netcoreapp2.1\TestApi.AssemblyInfo.cs
+D:\Sanofi\Work\DuduRepo\TodoApi\obj\Debug\netcoreapp2.1\TestApi.dll
+D:\Sanofi\Work\DuduRepo\TodoApi\obj\Debug\netcoreapp2.1\TestApi.pdb
